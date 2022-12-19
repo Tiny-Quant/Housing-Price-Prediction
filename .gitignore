@@ -1,0 +1,8 @@
+data/
+best_tune/
+Figures/
+logs/
+NN_Tunning/
+NN_Tuning/
+*.cvs
+*.pptx
